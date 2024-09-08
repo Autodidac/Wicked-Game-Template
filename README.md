@@ -10,5 +10,7 @@ Modern Game Architecture WickedEngine-Game Example Template for GitHub.
 
 Mission Goal of this Project: "just make games, not engines" or "utility libraries". 
 Also provide a Game Example Template for Robust Community Support for Lots of Next Generation Game Software.
+
+
 *I'll keep a repository version of WickedEngine on hand that will always work with the example while I continue this project (check my repos)
 
